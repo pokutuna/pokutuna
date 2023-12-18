@@ -1,6 +1,8 @@
 Web Developer / Software Engineer  
 [pokutuna.com](https://pokutuna.com/)
 
+Blog: [ぽ靴な缶](https://blog.pokutuna.com/) (ja)
+
 To see contributions to other repositories  
 [pokutuna.com / contributions](https://pokutuna.com/contributions)
 
